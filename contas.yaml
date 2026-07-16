@@ -16,7 +16,7 @@ contas:
   #
   # meu-insta:
   #   nome: "Meu Instagram"
-  #   instagram_account_id: "17841..."
+  #   instagram_account_id: "<teu-account-id>"   # 17 digitos, comeca com 17841
   #   instagram_username: "@meuinsta"
   #   worker_url: "https://comentario-dm-xxx.workers.dev"
   #   notas: ""

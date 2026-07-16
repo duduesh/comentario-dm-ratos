@@ -48,7 +48,7 @@ No painel do app, vai em **App Review > Permissions and Features**. Tu precisa d
 
 ## 5. Pegar o Instagram Account ID
 
-Na mesma tela de API setup, o Account ID aparece logo abaixo do token gerado. E um numero tipo `17841447368297614`.
+Na mesma tela de API setup, o Account ID aparece logo abaixo do token gerado. E um numero de 17 digitos que sempre comeca com `17841` (tipo `17841XXXXXXXXXXXX`, com os X sendo os digitos da tua conta).
 
 Se nao achar, pode buscar via API:
 ```

@@ -188,7 +188,7 @@ Preencher automaticamente o `contas.yaml` com os dados coletados:
 contas:
   USERNAME:
     nome: "Instagram @username"
-    instagram_account_id: "17841..."
+    instagram_account_id: "<teu-account-id>"   # 17 digitos, comeca com 17841
     instagram_username: "@username"
     worker_url: "https://comentario-dm-xxx.workers.dev"
     notas: ""
